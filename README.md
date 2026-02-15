@@ -6,15 +6,15 @@
 
 ## Monitored Services
 
-| Service | Endpoint | Criticality |
-|---------|----------|-------------|
-| API Gateway | `mcp.gostoa.dev/health` | Critical |
-| Control Plane API | `api.gostoa.dev/health/live` | Critical |
-| Console | `console.gostoa.dev` | High |
-| Developer Portal | `portal.gostoa.dev` | High |
-| Authentication | `auth.gostoa.dev` (OIDC discovery) | Critical |
-| Documentation | `docs.gostoa.dev` | Low |
-| Landing Page | `gostoa.dev` | Low |
+| Service           | Endpoint                           | Criticality |
+| ----------------- | ---------------------------------- | ----------- |
+| API Gateway       | `mcp.gostoa.dev/health`            | Critical    |
+| Control Plane API | `api.gostoa.dev/health/live`       | Critical    |
+| Console           | `console.gostoa.dev`               | High        |
+| Developer Portal  | `portal.gostoa.dev`                | High        |
+| Authentication    | `auth.gostoa.dev` (OIDC discovery) | Critical    |
+| Documentation     | `docs.gostoa.dev`                  | Low         |
+| Landing Page      | `gostoa.dev`                       | Low         |
 
 ## How It Works
 
