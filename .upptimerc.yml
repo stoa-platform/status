@@ -36,6 +36,8 @@ sites:
 status-website:
   cname: status.gostoa.dev
   logoUrl: https://raw.githubusercontent.com/stoa-platform/status/master/assets/stoa-logo.svg
+  favicon: https://raw.githubusercontent.com/stoa-platform/status/master/assets/stoa-icon.svg
+  faviconSvg: https://raw.githubusercontent.com/stoa-platform/status/master/assets/stoa-icon.svg
   name: STOA Platform Status
   introTitle: "**STOA Platform** is the European Agent Gateway — AI-native API management, open source."
   introMessage: >
