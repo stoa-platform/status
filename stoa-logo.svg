@@ -1,5 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 40" fill="none">
-  <rect width="40" height="40" rx="8" fill="#1a1a2e"/>
-  <text x="20" y="28" font-family="system-ui, sans-serif" font-size="20" font-weight="bold" fill="#e94560" text-anchor="middle">S</text>
-  <text x="52" y="28" font-family="system-ui, sans-serif" font-size="22" font-weight="bold" fill="#1a1a2e">STOA</text>
+  <defs>
+    <linearGradient id="stoaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#047857"/>
+      <stop offset="100%" style="stop-color:#059669"/>
+    </linearGradient>
+  </defs>
+  <!-- Icon -->
+  <circle cx="20" cy="20" r="18" fill="url(#stoaGradient)"/>
+  <path d="M12 15 Q12 12, 20 12 Q28 12, 28 15 Q28 18, 20 18 Q12 18, 12 21 Q12 24, 20 24 Q28 24, 28 28 Q28 31, 20 31"
+        stroke="white" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <circle cx="9" cy="18" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="31" cy="18" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="9" cy="24" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="31" cy="24" r="1.5" fill="white" opacity="0.8"/>
+  <!-- Text -->
+  <text x="52" y="28" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="bold" fill="#047857">STOA</text>
 </svg>
