@@ -5,17 +5,18 @@
     "icon": "https://raw.githubusercontent.com/stoa-platform/status/master/assets/stoa-icon.svg",
     "slug": "api-gateway",
     "status": "down",
-    "uptime": "97.67%",
-    "uptimeDay": "100.00%",
+    "uptime": "97.70%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.44%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "97.67%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-02-28": 0,
       "2026-02-22": 359,
       "2026-02-16": 58
     }
