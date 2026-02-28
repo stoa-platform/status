@@ -1,7 +1,7 @@
 url: https://mcp.gostoa.dev/health
-status: up
-code: 200
-responseTime: 723
-lastUpdated: 2026-02-28T09:35:14.438Z
+status: down
+code: 503
+responseTime: 394
+lastUpdated: 2026-02-28T18:36:48.447Z
 startTime: 2026-02-15T15:46:06.624Z
 generator: Upptime <https://github.com/upptime/upptime>
