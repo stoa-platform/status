@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/stoa-platform/status/master/assets/stoa-icon.svg",
     "slug": "api-gateway",
     "status": "down",
-    "uptime": "98.45%",
+    "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.47%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -28,7 +28,7 @@
     "slug": "control-plane-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-11": 0
+    }
   },
   {
     "name": "Console",
