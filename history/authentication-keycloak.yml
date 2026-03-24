@@ -1,7 +1,7 @@
 url: https://auth.gostoa.dev/realms/stoa/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 575
-lastUpdated: 2026-03-23T23:35:23.374Z
+responseTime: 494
+lastUpdated: 2026-03-24T23:35:12.116Z
 startTime: 2026-02-15T15:46:10.410Z
 generator: Upptime <https://github.com/upptime/upptime>
